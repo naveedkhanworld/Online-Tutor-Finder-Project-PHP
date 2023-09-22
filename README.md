@@ -21,7 +21,7 @@ Student make post Page
 ![Screenshot (89)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/2eb0f094-89b8-448b-94fc-ac6bbe9bd74d)
 
 
-Profile password chane and mail
+Profile password change and mail
 
 ![Screenshot (95)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/8acaaec4-2bb8-43dc-9fa0-d95f54268651)
 
