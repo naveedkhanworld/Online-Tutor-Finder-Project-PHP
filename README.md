@@ -5,23 +5,26 @@ The system of private tuition has been in existence in India for a long time but
  
 Home Page
 
-![Screenshot (88)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/752960a4-1f63-4602-91b9-49c251092d32)
+![Screenshot (88)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/1fdf89b1-339e-4738-a77d-f6e39f3c7547)
+
 
 Login
 
-![Screenshot (87)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/14ed58fa-d62c-4664-a141-edb2ac36c1b1)
+![Screenshot (87)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/783aa5d7-c79f-4eb7-9891-77408cf49fa8)
 
 Reagistration Page Or Create Acount
 
-![Screenshot (85)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/98d926e7-5146-4c3c-b601-c5aa66ebcc8d)
+![Screenshot (85)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/fb301381-ec17-4d82-85b3-0bef6f832607)
 
 Student make post Page
 
-![Screenshot (89)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/f7cc8ce4-d53a-4dd1-b5d9-d6506b231e0f)
+![Screenshot (89)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/2eb0f094-89b8-448b-94fc-ac6bbe9bd74d)
+
 
 Profile password chane and mail
 
-![Screenshot (95)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/4fb54c7a-4c92-4276-a293-4801cfdc13f6)
+![Screenshot (95)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/8acaaec4-2bb8-43dc-9fa0-d95f54268651)
+
 
 
 ** _Project Titles_**
@@ -43,8 +46,11 @@ This is a web-application which helps students find tutors based on their input 
 ** Features**
 
 A student can search for tutor when he is only logged in.
+
 When logged in student can also request tutor of a subject.
+
 There is space for teacher to update when he log in.
+
 Database file main_db.sql is also included.
 
 ** Abstract**
@@ -56,12 +62,12 @@ It is an age old problem that a student has a tough time finding the teacher whe
 Student**
 
 1)	Log In Page
-2)	Home Page
-3)	Make You Post Page
-4)	Search Tutor page
-5)	Change Password or mail
-6)	Notifications 
-7)	Register as a Student
+3)	Home Page
+4)	Make You Post Page
+5)	Search Tutor page
+6)	Change Password or mail
+7)	Notifications 
+8)	Register as a Student
 
 ** Teacher**
 
@@ -104,7 +110,9 @@ Microsoft Windows is a group of several proprietary graphical operating system f
 ** Front End**
 
 -HTML
+
 -CSS
+
 -JavaScript
 
 ** For Back End**
@@ -128,6 +136,7 @@ Microsoft Windows is a group of several proprietary graphical operating system f
 
 
 *My Social Accounts For any kind of help in this Project**
+
 
 Twitter
 
