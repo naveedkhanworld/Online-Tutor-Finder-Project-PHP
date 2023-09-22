@@ -1,6 +1,27 @@
 # Online-Tutor-Finder-Project-PHP
 The system of private tuition has been in existence in India for a long time but in recent times it has grown in manifold affecting the core of the educational system. This private tutor system will help to find tuition teachers from nearby locations. Teachers can also get a student just by logging.
- **_PHP based final Year Project Gratuation or Intermediate simple Project without BootsStrap with Report PPT PowerPoint File And also Report Included_**
+
+ **_PHP based final Year Project Gratuation or Intermediate simple Project without BootsStrap with PPT PowerPoint File And also Report Included_**
+ 
+Home Page
+
+![Screenshot (88)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/752960a4-1f63-4602-91b9-49c251092d32)
+
+Login
+
+![Screenshot (87)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/14ed58fa-d62c-4664-a141-edb2ac36c1b1)
+
+Reagistration Page Or Create Acount
+
+![Screenshot (85)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/98d926e7-5146-4c3c-b601-c5aa66ebcc8d)
+
+Student make post Page
+
+![Screenshot (89)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/f7cc8ce4-d53a-4dd1-b5d9-d6506b231e0f)
+
+Profile password chane and mail
+
+![Screenshot (95)](https://github.com/naveedkhanworld/Online-Tutor-Finder-Project-PHP/assets/92101193/4fb54c7a-4c92-4276-a293-4801cfdc13f6)
 
 
 ** _Project Titles_**
