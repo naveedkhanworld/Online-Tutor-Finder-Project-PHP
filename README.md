@@ -3,17 +3,6 @@ The system of private tuition has been in existence in India for a long time but
 ### **_PHP based final Year Project Gratuation or Intermediate simple Project without BootsStrap with Report PPT PowerPoint File And also Report Included_**
 
 
-[Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/4b4ca35d-7b9e-406a-8141-2bfc7fabe362)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/a9c9f44a-83eb-44cd-ad92-76a39efa49fd)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/9b3e40cb-de73-44b2-9061-12e3f65b5ade)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/1aa99df0-c33d-415e-bf22-3bb9c6224520)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/35e10e43-44d5-40fe-9047-de6e76084b5c)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/69e03120-b808-4461-9c4a-cce2fc55f594)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/26f49a4a-7b0c-4dfc-b6ba-50b4156bd32a)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/9fecd499-7c9f-4840-bae2-4f488b20ba2c)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/5f65d648-ba78-464f-b09e-8ccd59be2ad4)
-![Image](https://github.com/users/naveedkhanworld/projects/1/assets/92101193/19840e15-8ca1-4031-b88b-0f51dfef8ed8)
-
 **### _Project Titles_**
 
 Student Finder 
