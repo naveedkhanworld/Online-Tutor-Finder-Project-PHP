@@ -1,0 +1,92 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.post_form{
+    margin-bottom: 100px;
+    background-color: rgba(105, 212, 56, 0.521);
+    width: 600px;
+    border-radius: 25px;
+    box-shadow: 15px 15px;
+}
+.post_form:hover{
+  background-color: rgba(105, 212, 56, 0.76);
+  transition: all .5s;
+}
+h1{
+    font-size: 40px;
+    color: white;
+    padding-left: 30px;
+    padding-top: 25px;
+
+}
+select{
+    width: 500px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 18px;
+    margin-left: 25px;
+    background-color: rgba(255, 255, 255, 0.494);
+}
+.sub_button{
+    margin-top: 10px;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 30px;
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 23px;
+    cursor: pointer;
+    box-shadow: 5px 5px black;
+    border-radius: 9px;
+  }
+  .sub_button:hover{
+    background-color: brown;
+    color: white;
+    transition:all .5s;
+  }
+  h3{
+    font-size: 25px;
+    color: gold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .sb , .cls , .md{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 18px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 0, 0);
+  }
+  .divp35 span{
+    padding-left: 5px;
+    padding-right: 30px;
+  }
+ p{
+  color: rgb(4, 0, 255);
+  padding-left: 30px;
+  font-weight: bolder;
+ }
+#datepicker ,#location{
+  width: 500px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 18px;
+  background-color: rgba(255, 255, 255, 0.494);
+}
+#location{
+  margin-left: 20px;
+}
+.footer{
+  margin-top: 200px;
+  background-color: gray;
+}

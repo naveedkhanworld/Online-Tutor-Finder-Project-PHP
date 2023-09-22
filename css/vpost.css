@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.nfeedleft{
+padding-top: 100px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.nfbody{
+  padding-top: 10px;
+  border-radius: 20px;
+  margin: 18px 18px 18px 18px;
+  width: 580px;
+  background-color: rgba(105, 212, 56, 0.562);
+  box-shadow: 8px 8px black;
+}
+.nfbody:hover{
+  background-color: rgba(105, 212, 56, 0.801);
+}
+.prof-pic img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.sub_button{
+  width: 130px;
+  height: 40px;
+  background-color: red;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 8px;
+}
+  .table-data{
+  width: 90%;
+  line-height: 20px;
+  text-align: center;
+  
+}
+.p_nmdate{
+  font-size: larger;
+}

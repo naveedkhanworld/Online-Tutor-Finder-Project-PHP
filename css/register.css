@@ -1,0 +1,80 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nbody{
+  padding-top: 100px;
+}
+.form{
+  width: 600px;
+  border-radius: 25px;
+  box-shadow: 15px 15px;
+  background-color: rgba(128, 117, 0, 0.5);
+}
+.form input{
+  width: 500px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 18px;
+  margin-left: 15px;
+  background-color: rgba(255, 255, 255, 0.494);
+}
+.form input::placeholder{
+  color: rgb(96, 70, 5);
+}
+.gender input{
+  width: 20px;
+  margin: 10px 30px 0px 30px;
+}
+.gender{
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+}
+.gender p{
+  font-size: 22px;
+  color: gold;
+}
+.ac_type input{
+  width: 25px;
+  margin-top: 16px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.ac_type{
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+}
+.ac_type p{
+  font-size: 26px;
+  color: gold;
+  font-weight: bold;
+}
+form #submit{
+  margin-top: 10px;
+  width: 300px;
+  background-color: yellow;
+  font-weight: bold;
+  font-size: 23px;
+  cursor: pointer;
+  box-shadow: 5px 5px black;
+}
+form #submit:hover{
+  background-color:red;
+  color: white;
+  transition: all .5s;
+}
+.form h1{
+  font-size: 40px;
+  color: white;
+}
+form #genderp{
+  font-size: 25px;
+  padding-left: 30px;
+  color: gold;
+}

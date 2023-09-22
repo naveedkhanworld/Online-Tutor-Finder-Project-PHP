@@ -1,0 +1,139 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.zzz{
+    padding-top: 200px;
+}
+.bars{
+    width: 600px;
+    height: 60px;
+    background-color: brown;
+    border-radius:20px 20px 0px 0px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+  }
+  .bars a{
+    text-decoration: none;
+    font-size: 25px;
+    padding-top: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  .navbtn{
+    width: 150px;
+    height: 60px;
+    float: left;
+    border: none;
+    font-size: 17px;
+    background-color: brown;
+    cursor: pointer;
+  }
+  .navbtn:hover{
+    background-color: aquamarine;
+  }
+  text{
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .p_btn{
+    border-radius: 20px 0px 0px 0px;
+  }
+  .s_btn{
+    background-color: aquamarine;
+  }
+  .setting-box{
+    padding-top: 20px;
+    background-color: aquamarine;
+    width: 600px;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+  
+  }
+  .setting-box input{
+    width: 400px;
+    height: 30px;
+    margin-top: 10px ;
+    padding-left: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.658);
+  }
+  .post-box input{
+    width: 15px;
+    height: 15px;
+  }
+  #bt{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+    font-size: larger;
+    color: rgb(30, 63, 210);
+    border: solid chocolate 2px;
+    background-color: rgb(154, 243, 166);
+  }
+  #bt:hover{
+    background-color: brown;
+    color: white;
+    border: none;
+    transition: all .5s;
+    transition: .5;
+  }
+  .nm{
+    width: 200px;
+  }
+  h3{
+    font-size: 25px;
+    color: gray;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .sb , .cls , .md ,select{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 18px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+  }
+  .divp35 span{
+    padding-left: 5px;
+    padding-right: 30px;
+  }
+ p{
+  color: chartreuse;
+  padding-left: 30px;
+ }
+#datepicker ,#location{
+  width: 500px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 18px;
+  background-color: rgba(255, 255, 255, 0.494);
+ }
+ #location{
+  margin-left: 20px;
+ }
+input[type="submit"]{
+  background-color: yellow;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+}
+.photo img{
+  width: 100px;
+  height: 100px;
+}
+table{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.itemrow{
+  line-height: 25px;
+}

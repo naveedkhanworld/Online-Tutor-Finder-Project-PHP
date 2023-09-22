@@ -1,0 +1,12 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+.nfeedleft{
+  margin-top: 200px;
+  background-color: aquamarine;
+  width: 600px;
+  border-radius: 0px 0px 20px 20px;
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+}
