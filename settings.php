@@ -95,14 +95,14 @@ if ($senddata) {
             <div class="line3"></div>
         </div>
         <ul class="nav-links">
-            <li><a href="index.php" >Students</a></li>
-            <li><a href="search.php">Search Tutor</a></li>
-			<?php 
+        <?php     
 			if($utype_db == "teacher")
 				{
-
+                    echo '<li><a href="index.php" >Students</a></li>';
 				}else {
+
 					echo '<li><a class=" navlink" href="postform.php">Post</a></li>';
+                    echo '<li><a href="search.php">Search Tutor</a></li>';
 				}
 			 ?>
 						<?php
