@@ -106,9 +106,9 @@ if (isset($_POST['login'])) {
 				header('location: viewpost.php?pid='.$_REQUEST['pid'].'');
 			}else{
 				if($get_user_type_db == "teacher"){
-					header('location: search.php');}
+					header('location: index.php');}
 					else{
-						header('location: index.php');
+						header('location: search.php');
 					}
 			}
 			exit();
