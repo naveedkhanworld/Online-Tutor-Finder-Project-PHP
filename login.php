@@ -105,7 +105,11 @@ if (isset($_POST['login'])) {
 			}elseif($_REQUEST['pid'] != ""){
 				header('location: viewpost.php?pid='.$_REQUEST['pid'].'');
 			}else{
-				header('location: index.php');
+				if($get_user_type_db == "teacher"){
+					header('location: search.php');}
+					else{
+						header('location: index.php');
+					}
 			}
 			exit();
 		}
